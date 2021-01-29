@@ -2,7 +2,7 @@ package SoloJP;
 
 import java.sql.*;
 import java.util.Scanner;
-
+// 수정 했읍니다.
 public class BurnGamingMain {
 	public static void main(String[] args) {
 		BurnGamingDTO bgDto = new BurnGamingDTO();
